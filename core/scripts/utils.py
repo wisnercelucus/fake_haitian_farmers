@@ -1,5 +1,7 @@
 import random
 from datetime import datetime, timedelta
+import calendar
+from dateutil.relativedelta import relativedelta
 
 #from faker import Faker
 #from mimesis import Person
@@ -12,6 +14,30 @@ from datetime import datetime, timedelta
 #person = Person()
 #addess = Address()
 #datetime = Datetime()
+
+def years_between(date1: datetime, date2: datetime) -> int:
+    # Ensure date1 is the earlier date
+    if date1 > date2:
+        date1, date2 = date2, date1
+    
+    # Calculate the difference
+    delta = relativedelta(date2, date1)
+    
+    return delta.years
+
+
+def random_date_between(start_date: datetime, end_date: datetime) -> datetime:
+    # Calculate the difference in days between the start and end dates
+    delta_days = (end_date - start_date).days
+    
+    # Generate a random number of days within this range
+    random_days = random.randint(0, delta_days)
+    
+    # Create a random date by adding the random number of days to the start date
+    random_date = start_date + timedelta(days=random_days)
+    
+    return random_date
+
 
 def random_date(start_date, end_date) -> datetime:
     start_timestamp = int(start_date.timestamp())
