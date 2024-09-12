@@ -1,7 +1,13 @@
 from pydantic import BaseModel
+from typing import Optional
+
 
 class Department(BaseModel):
-    pass
+    id: int
+    name: str
+    population: Optional[float] = None
+    gps_lat: Optional[float] = None
+    gps_lng: Optional[float] = None
 
 
 if __name__ == '__main__':

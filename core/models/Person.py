@@ -25,6 +25,7 @@ class TypePerson(str, Enum):
 
 
 class Person(BaseModel):
+    id: Optional[int]=None
     first_name: str
     last_name: str
     address: str
@@ -48,6 +49,7 @@ class Person(BaseModel):
     gps_lat:Optional[float] = None
     gps_lng:Optional[float] = None
     date_joined: Optional[date]=None
+    community_id: Optional[int]
 
 
     @field_validator('phone_1')

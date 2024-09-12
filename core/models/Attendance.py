@@ -1,6 +1,7 @@
 from pydantic import BaseModel
 
 class Attendance(BaseModel):
+    id: int
     pass
 
 
