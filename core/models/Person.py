@@ -17,7 +17,8 @@ class TypeID(str, Enum):
 
 class TypePerson(str, Enum):
     type_1 = "Les gens au gouvernement"
-    type_2 = "Personnes travaillant dans des entreprises du secteur privé soutenues par le gouvernement américain"
+    type_2 = "Personnes travaillant dans des entreprises du secteur \
+                privé soutenues par le gouvernement américain"
     type_3 = "Les gens de la société civile"
     type_4 = "Petit producteur"
     type_5 = "Producteur non-petit exploitant"

@@ -83,6 +83,26 @@ def create_email(first_name: str, last_name: str, domain: str = 'example.com') -
 #df_mimesis = pd.DataFrame(create_rows_mimesis(5000))
 
 
+def calculate_quartiles(data):
+    data.sort()
+    n = len(data)
+    
+    def median(data):
+        n = len(data)
+        mid = n // 2
+        if n % 2 == 0:
+            return (data[mid - 1] + data[mid]) / 2
+        else:
+            return data[mid]
+    
+    q2 = median(data)
+    lower_half = data[:n // 2]
+    q1 = median(lower_half)
+    
+    upper_half = data[(n + 1) // 2:]
+    q3 = median(upper_half)
+    
+    return q1, q2, q3
 
 
 if __name__=='__main__':
@@ -108,3 +128,13 @@ if __name__=='__main__':
     min_val = 1.5
     max_val = 10.5
     print(random_float(min_val, max_val))
+
+    # List of ages
+    ages = [23, 45, 30, 40, 35, 50, 60, 25, 27, 55]
+    
+    # Calculate quartiles
+    q1, q2, q3 = calculate_quartiles(ages)
+    
+    print(f"First quartile (Q1): {q1}")
+    print(f"Second quartile (Q2 - Median): {q2}")
+    print(f"Third quartile (Q3): {q3}")
