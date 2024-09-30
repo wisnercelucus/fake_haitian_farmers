@@ -5,9 +5,15 @@ from datetime import date
 
 
 class TypeOfProduct(str, Enum):
-    male = "Male"
-    female = "Female"
-    other = "Other"
+    goat_meat     = "Viande de chèvre"
+    full_cattle   = "Bovin entier"
+    cow_milk      = "Lait de vache"
+    full_sheep    = "Mouton entier"
+    poultry       = "Volaille"
+    full_goat     = "Chèvre entière"
+    eggs          = "Oeufs"
+    sheep_meat    = "Viande de mouton"
+    cattle_meat   = "Viande de bovin"
 
 
 class Sale(BaseModel):
@@ -15,6 +21,9 @@ class Sale(BaseModel):
     partner_id: Optional[int]=None
     participant_id: Optional[int]=None
     type_of_product: str
+    date: date
+    qty: float
+    total: float
 
 
     class Config:
