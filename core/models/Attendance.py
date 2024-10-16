@@ -2,7 +2,8 @@ from pydantic import BaseModel
 
 class Attendance(BaseModel):
     id: int
-    pass
+    participant_id: int
+    activity_id: int
 
 
 if __name__ == '__main__':
