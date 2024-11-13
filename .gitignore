@@ -164,3 +164,6 @@ configs/credentials.py
 scripts/pbi_py.py
 pbi_py.py
 shapefiles/
+
+dbsecret.py
+
