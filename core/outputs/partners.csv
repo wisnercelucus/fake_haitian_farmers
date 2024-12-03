@@ -1,238 +1,238 @@
-,id,name,acronym,address,email,phone_1,phone_2,created_in,leader_name,leader_age,leader_sex,nb_goat,nb_cattle,nb_sheep,nb_poultry,gps_lat,gps_lng,date_joined,community_id
-0,1,A&P Entreprise Agro Vétérinaire,A&P,Carrefour La Mort,,,,0,Ing Alexis Reno,0,Homme,,,,,,,,78
-1,2,HEEMA ENGINEERING &SERVICES,HEEMA,Coladère,heemahaiti09@gmail.com,,,0,Georges Clautain,0,Homme,,,,,,,,22
-2,3,Este-agriv,nan,"10, Breda II, deuxieme section, basse plaine",,,,0,Landis Lucce,0,Femme,,,,,,,,73
-3,4,Ferme Petit Frère de L'incarnation,PFI,Des lattes prolongée,,,,0,Accilien Joseph,0,Homme,,,,,,,,27
-4,5,Ferme Luckner Alexis,FLA,Salmory,sdeblugny1985@gmail.com ,,,0,Sylvain Deblugny Arnould,0,Homme,,,,,,,,29
-5,6,Horizon Vèt,HV,Rue Chepa,horizonvt@gmail.com,,,0,Myrla Charles,0,Femme,,,,,,,,24
-6,7,Zim Ferme de Recherche Appliquée et de Développement Communautaire ,ZIFRADEC,Bassin Zim,jjeanwoodson@gmail.com ,,,0,Jean Woodson Joachin ,0,Homme,,,,,,,,13
-7,8,Poulaye Lakay,PL,Papaye,seideadeline81@gmail.com,,,0,Adeline Joseph Seïde,0,Femme,,,,,,,,23
-8,9,Interdépartemental Réseau Vétérinaire,INTERVED,Ville de Hinche,,,,0,Il est géré par un comité,0,Homme,,,,,,,,35
-9,10,Groupe de Recherche Agricole d'Haïti ,GRAH,Melène,grah19entreprise@gmail.com ,,,0,Mener de Nikelly ,0,Homme,,,,,,,,93
-10,11,Bambou poulailler ,BP,Lina,dolcewesly2021@gmail.com ,,,0,Dolce Wesly,0,Homme,,,,,,,,90
-11,12,Ministère Haïtien Zanmi kris yo,Ministère Haïtien Zanmi Kris yo,Terre Blanche ,serpacc2004@yahoo.fr,,,0,Jonas Rock,0,Homme,,,,,,,,54
-12,13,THE CHOU FERME,nan,Laby,choulouttephilemond6@gmail.com,,,0,Chouloutte Philemond,0,Homme,,,,,,,,17
-13,14,Bon Secours Agro Vèt,Bon Secours Agro Vèt,"#26 Rue St Fleur plongée, Pignon ",dantil4@hotmail.com ,,,0,Dantil Moussanto ,0,Homme,,,,,,,,55
-14,15,Agwo Lakay,Agwo Lakay,Basile,etiennestivyntzly4@gmail.com,,,0,Gellin Brunel,0,Homme,,,,,,,,92
-15,16,Agro Paysage et Veterinaire,APV,Mombin Latay,remyjeanbaptiste894@gmail.com,,,0,Remy Jean-Baptiste,0,Homme,,,,,,,,58
-16,17,Agri-Feed,nan,Dubout en face du Campus Henri Christophe de Limonade,louisyonel34@gmail.com,,,0,Louis Yonel,0,Homme,,,,,,,,48
-17,18,AGRI-FAZ,nan,Decle,,,,0,Wisnel Tanis,0,Homme,,,,,,,,47
-18,19,Entreprise Nelton Louis Boucherie- Charcuterie et Rôtisserie,NTL,"85,Rue Sténio Vincent, Grande Rue",Louisstephie17@yahoo.fr,,,0,Stéphanie Louis,0,Femme,,,,,,,,113
-19,20,Lakou Royal Ferme AgroEcologique,Lakou Royal,Devarènes,Jjguillaume07@yahoo.fr,,,0,Jean Joseph Guillaume,0,Homme,,,,,,,,156
-20,21,Coalition des Producteurs pour le Développement Agricole,COPDA,Moussignac,Johnsonpierre42@gmail.com,,,0,Johnson Pierre,0,Homme,,,,,,,,155
-21,22,PMG Jean Michel Thomas,nan,"Pichon, En face Nirabelle Hôtel",Thomasjeanmichel27@gmail.com,,,0,PMG Jean Michel Thomas,0,Homme,,,,,,,,158
-22,23,Koperativ Elvè Tèrye-Wouj,KOET,Bonnement,Monestimetelfort@gmail.com,,,0,Telfort Monestime,0,Homme,,,,,,,,147
-23,24,Asosyasyon Pwodiktè Lèt Ench,APWOLEE,Saint Plaza,jnclaudepierre95@gmail.com,,,0,Christiane Adrien,0,Femme,,,,,,,,12
-24,25,Le Sanctuaire Ferme Agricole,SFA,Devesien,Afedaud@gmail.com,,,0,Fedaud Augustin,0,Homme,,,,,,,,148
-25,26,Poulailler Herold,nan,Centre ville,,,,0,Jean Baptiste Hérold,0,Homme,,,,,,,,98
-26,27,Poulailler Adrien,nan,Impasse Adrien,,,,0,Anne-Marie Joseph,0,Femme,,,,,,,,100
-27,28,Poulailler Jean Frantzy,nan,Brunette,,,,0,Jean Frantzy,0,Homme,,,,,,,,99
-28,29,Poulailler Jameson,nan,Baja,,,,0,Jameson Joseph,0,Homme,,,,,,,,95
-29,30,Ferme Andre Production Agricole de Dumas,FAPAD,Nan Pi a,Jeanjosehandre307@gmail.com,,,0,André Jean Joseph,0,Homme,,,,,,,,116
-30,31,FERME FENDAL,FERME FENDAL,Marinette,simonfendal@gmail.com,,,0,Fendal Youbens Simon,0,Homme,,,,,,,,3
-31,32,Christ Capable Ferme d'Elevage,CCFE,Trois Boipins,sleekenson@gmail.com,,,0,Saintil Luckenson,0,Homme,,,,,,,,5
-32,33,KABRIT KISKEYA,KABRIT KISKEYA,Nan Guerrier/ Trois Boipins,rwasembeck@yahoo.com,,,0,Aganette Simon,0,Femme,,,,,,,,4
-33,34,G&G SERVICES AGRICOLES,G&G SERVICES AGRICOLES,Jacob,orinesaugustingeg50@yahoo.com,,,0,Augustin Orines,0,Homme,,,,,,,,30
-34,35,Agropharma,nan,Duhaut,Infoagropharma@gmail.com,,,0,Volcy Souvenir,0,Femme,,,,,,,,135
-35,36,Centre AgroVétérinaire,CETAVET,Dilaire,hcetave@gmail.com,,,0,Sonther Horacius,0,Homme,,,,,,,,134
-36,37,Nouvo Jaden agrikòl,nan,Dilaire,Aariotsilien1987@gmail.com,,,0,Silien Mariot,0,Homme,,,,,,,,129
-37,38,Poulailler Carmilus,nan,Dilaire,,,,0,Joseph Carmilus,0,Homme,,,,,,,,134
-38,39,AGROTECH,nan,Tchamba #124,Agrotechaiti2007@yahoo.fr,,,0,Pascal DESORMES,0,Homme,,,,,,,,142
-39,40,Centre de Santé et de Développement Intégré,CSDI,Bois Couleuvre,faublasjoseph@gmail.com,,,0,Joseph Faublas,0,Homme,,,,,,,,2
-40,41,Poulailler Gilbert,nan,Habitation boujo,,,,0,Gilbert Nolcy,0,Homme,,,,,,,,127
-41,42,Agroveterinaire,nan,Dilaire,,,,0,Narcisse Rodly,0,Homme,,,,,,,,134
-42,43,Solution AgroVétérinaire,SOLAVET,Ville de Port-à-Piment,solavet@gmail.com,,,0,Emile Rigaud,0,Homme,,,,,,,,211
-43,44,Dallas Farm,nan,"Cascade Touyak, Port-Salut",dallasfarms.ht@gmail.com,,,0,Michel Ely Monnin,0,Homme,,,,,,,,209
-44,45,Association des Organisations Paysannes de Charlemagne,AOPC,"Rue du Mars, Bénèche",mariefrançoiselubin8@gmail.com,,,0,Marie Françoise Lubin Michelle,0,Femme,,,,,,,,207
-45,46,Aucun nom à date,nan,Centre-VIlle,,,,0,Relet Jean,0,Homme,,,,,,,,210
-46,47,Agrogau Entreprise,nan,"St-Felix, à cote de la riviere Lacul",agrogauproduction@gmail.com,,,0,Mish'ner Gauthier,0,Homme,,,,,,,,216
-47,48,Bon Jaden Lakay,nan,Duhaut,Bonjadenlakay@yahoo.com,,,0,Doudy Pierre,0,Homme,,,,,,,,136
-48,49,Ferme Agricole Anna's Saintvil,SAENA,Dilaire (Robino 1),edsonnarcisse42@gmail.com,,,0,Edson Narcisse,0,Homme,,,,,,,,132
-49,50,Poulailler Debs,nan,Dilaire/route Acul des pins,michanecybelton608@gmail.com,,,0,Belton Michanecy,0,Homme,,,,,,,,130
-50,51,Ferme Manigat donnat,nan,Baja,Josephcalinx1@gmail.com,,,0,Calinx Joseph,0,Homme,,,,,,,,94
-51,52,Laiterie de Ferrier,nan,Terre Blanche,Steeve.alexandre.16.sa@gmail.com,,,0,Steeve Alexandre,0,Homme,,,,,,,,110
-52,53,Groupman Agrikòl Ferrye,GAF,Blon (Gustave),,,,0,Rochenel Eustache,0,Homme,,,,,,,,106
-53,54,Ferme la chèvre qui rit,nan,Terre Blanche,,,,0,Dieu Amboise,0,Homme,,,,,,,,110
-54,55,Le Canaan Production / FA Production,nan,Habitation Bwapè,Weslyedmond98@gmail.com,,,0,Maguie JOSEPH,0,Femme,,,,,,,,154
-55,56,Poulailler Jinjha,nan,Sance,,,,0,Jinjha Pierre,0,Homme,,,,,,,,131
-56,57,Solution Boutique Agricole,SOBA,Route Nle Carrefour Chivry,Nadou7468@yahoo.fr,,,0,Jasmine PIERRE,0,Femme,,,,,,,,114
-57,58,Poulailler,nan,Nan plezi,Fluerismalakay@gmail.com,,,0,Anel Fleurisma,0,Homme,,,,,,,,124
-58,59,Poulailler Gilbert,nan,Nan plezi,Gj348803@gmail.com,,,0,Joseph Gilbert,0,Homme,,,,,,,,124
-59,60,Poulailler Père Yvon,nan,"Centre ville, à coté del'Eglise catholique de Mont-Organisé",Beliardi@hotmail.com,,,0,Yvon Béliard,0,Homme,,,,,,,,123
-60,61,Association des Femme en action pour le developpement de Mont-Organisé,AFADMO,Bas bois pin Cao,fafadmo70@yahoo.com,,,0,Clausette Mercelin,0,Femme,,,,,,,,125
-61,62,Entreprise Ferme Agropastorale de Mont-Organisé,EFAMO,Bas bois pin Cao,Sannavetitus81@gmail.com,,,0,Salnave Titus,0,Homme,,,,,,,,121
-62,63,Poulailler,nan,Calvaire,,,,0,Maxine Aristyl,0,Homme,,,,,,,,120
-63,64,Poulailler Marcky,nan,Avenue Capois numéro 88,Noelmarckyy@gmail.com,,,0,Marcky Noel,0,Homme,,,,,,,,137
-64,65,Laiterie de Ouanaminthe/GEDWA,GEDWA,Duhaut,,,,0,Ange Marie Joasard,0,Femme,,,,,,,,135
-65,66,Poulailler Bernadin,nan,Dilaire,,,,0,Jean-Claude Bernadin,0,Homme,,,,,,,,129
-66,67,"Ferme d'Expérimentation, de production pour la Vulgarisation Agricole d'Haiti",FEPVAH,Dlo Carice,Guerlandeduval@hotmail.com,,,0,Guerlande Duval,0,Femme,,,,,,,,104
-67,68,Ferme de l'avenir,nan,"Bas fort, près du terrain de football",manobla1512@gmail.com,,,0,Wis Gilles,0,Homme,,,,,,,,97
-68,69,Ferme Agricole la Réserve,FAR,Bosco,Lareserveclub@gmail.com,,,0,Bruno Brunel,0,Homme,,,,,,,,115
-69,70,Dlina Production,nan,Piedor,Lyndosaintpreux@gmail.com,,,0,Saint-Preux Winston,0,Homme,,,,,,,,117
-70,71,Wed & Sam Pharmacie Vétérinaire,nan,Rue du Quay,Weslyedmond78@gmail.com,,,0,Sonise Antoine,0,Femme,,,,,,,,153
-71,72,Ferme de Production la Renaissance de Terrier Rouge,FPRTR,Morne à Père,,,,0,Saint-Ange Étienne,0,Homme,,,,,,,,143
-72,73,Association des apiculteurs de ferrier,AAF,Casimir,Renejeremie@yahoo.fr,,,0,Jérémie René,0,Homme,,,,,,,,105
-73,74,Association des.producteurs de lait et éleveurs de Ferrier,APLEF,Marie thérèse,,,,0,Francelin Jean Baptiste,0,Homme,,,,,,,,108
-74,75,Dermance Pierre,nan,Lòtbò Pon,,,,0,Dermance Pierre,0,Homme,,,,,,,,151
-75,76,James Augustin,nan,Fond Blanc,,,,0,James Augustin,0,Homme,,,,,,,,152
-76,77,Ferme Heptagone,FH,Man Bwapen,Marioantoine@rocketmail.com,,,0,Jean Mario Antoine,0,Homme,,,,,,,,144
-77,78,A & A production agricole,nan,Pilette,Amfaltidor@yahoo.fr,,,0,Altidor Louidès,0,Homme,,,,,,,,157
-78,79,Calixte Delforce Ferme,CD Ferme,Lafresiliere,delforcemakenson@gmail.com,,,0,Makenson Delforce,0,Homme,,,,,,,,214
-79,80,PDF Entreprise Agricole,PDF Entreprise Agricole,Aguaedionne,pdjerryfaucolt@gmail.com,,,0,Pierre Djerry Faucolt,0,Homme,,,,,,,,15
+,id,name,acronym,address,email,phone_1,phone_2,created_in,leader_name,leader_age,leader_sex,nb_goat,nb_cattle,nb_sheep,nb_poultry,gps_lat,gps_lng,date_joined,community_id,age_group
+0,1,A&P Entreprise Agro Vétérinaire,A&P,Carrefour La Mort,,,,0,Ing Alexis Reno,58,Homme,,,,,19.7677777,-72.1944103,2024-08-05,78,30+
+1,2,HEEMA ENGINEERING &SERVICES,HEEMA,Coladère,heemahaiti09@gmail.com,,,0,Georges Clautain,28,Homme,,,,,19.2359631,-72.0194195,2026-03-12,22,15-29
+2,3,Este-agriv,nan,"10, Breda II, deuxieme section, basse plaine",,,,0,Landis Lucce,60,Femme,,,,,19.6872993,-72.2628411,2026-11-05,73,30+
+3,4,Ferme Petit Frère de L'incarnation,PFI,Des lattes prolongée,,,,0,Accilien Joseph,39,Homme,,,,,19.1376199,-72.0199641,2024-05-12,27,30+
+4,5,Ferme Luckner Alexis,FLA,Salmory,sdeblugny1985@gmail.com ,,,0,Sylvain Deblugny Arnould,43,Homme,,,,,19.1180404,-72.0417987,2024-07-28,29,30+
+5,6,Horizon Vèt,HV,Rue Chepa,horizonvt@gmail.com,,,0,Myrla Charles,30,Femme,,,,,19.1406578,-72.0003327,2027-03-14,24,30+
+6,7,Zim Ferme de Recherche Appliquée et de Développement Communautaire ,ZIFRADEC,Bassin Zim,jjeanwoodson@gmail.com ,,,0,Jean Woodson Joachin ,84,Homme,,,,,19.1863808,-71.9921834,2025-06-29,13,30+
+7,8,Poulaye Lakay,PL,Papaye,seideadeline81@gmail.com,,,0,Adeline Joseph Seïde,60,Femme,,,,,19.1645235,-71.9871033,2025-12-17,23,30+
+8,9,Interdépartemental Réseau Vétérinaire,INTERVED,Ville de Hinche,,,,0,Il est géré par un comité,48,Homme,,,,,19.1451326,-72.0092226,2024-09-05,35,30+
+9,10,Groupe de Recherche Agricole d'Haïti ,GRAH,Melène,grah19entreprise@gmail.com ,,,0,Mener de Nikelly ,74,Homme,,,,,19.4376125,-72.2031055,2026-12-10,93,30+
+10,11,Bambou poulailler ,BP,Lina,dolcewesly2021@gmail.com ,,,0,Dolce Wesly,75,Homme,,,,,19.4703364,-72.2051516,2027-12-19,90,30+
+11,12,Ministère Haïtien Zanmi kris yo,Ministère Haïtien Zanmi Kris yo,Terre Blanche ,serpacc2004@yahoo.fr,,,0,Jonas Rock,44,Homme,,,,,19.3480756,-72.1261368,2027-06-15,54,30+
+12,13,THE CHOU FERME,nan,Laby,choulouttephilemond6@gmail.com,,,0,Chouloutte Philemond,36,Homme,,,,,19.2000374,-72.0464054,2027-09-02,17,30+
+13,14,Bon Secours Agro Vèt,Bon Secours Agro Vèt,"#26 Rue St Fleur plongée, Pignon ",dantil4@hotmail.com ,,,0,Dantil Moussanto ,38,Homme,,,,,19.3371185,-72.1181202,2024-11-25,55,30+
+14,15,Agwo Lakay,Agwo Lakay,Basile,etiennestivyntzly4@gmail.com,,,0,Gellin Brunel,54,Homme,,,,,19.4359345,-72.195436,2027-07-17,92,30+
+15,16,Agro Paysage et Veterinaire,APV,Mombin Latay,remyjeanbaptiste894@gmail.com,,,0,Remy Jean-Baptiste,69,Homme,,,,,19.72045,-72.236122,2026-10-05,58,30+
+16,17,Agri-Feed,nan,Dubout en face du Campus Henri Christophe de Limonade,louisyonel34@gmail.com,,,0,Louis Yonel,66,Homme,,,,,19.659031,-72.06919,2025-11-16,48,30+
+17,18,AGRI-FAZ,nan,Decle,,,,0,Wisnel Tanis,86,Homme,,,,,19.646157,-72.073428,2025-05-22,47,30+
+18,19,Entreprise Nelton Louis Boucherie- Charcuterie et Rôtisserie,NTL,"85,Rue Sténio Vincent, Grande Rue",Louisstephie17@yahoo.fr,,,0,Stéphanie Louis,45,Femme,,,,,19.665539,-71.838602,2024-11-02,113,30+
+19,20,Lakou Royal Ferme AgroEcologique,Lakou Royal,Devarènes,Jjguillaume07@yahoo.fr,,,0,Jean Joseph Guillaume,53,Homme,,,,,19.638118,-72.042376,2024-05-20,156,30+
+20,21,Coalition des Producteurs pour le Développement Agricole,COPDA,Moussignac,Johnsonpierre42@gmail.com,,,0,Johnson Pierre,38,Homme,,,,,19.604296,-72.019663,2024-11-03,155,30+
+21,22,PMG Jean Michel Thomas,nan,"Pichon, En face Nirabelle Hôtel",Thomasjeanmichel27@gmail.com,,,0,PMG Jean Michel Thomas,82,Homme,,,,,19.619346,-72.013015,2026-07-06,158,30+
+22,23,Koperativ Elvè Tèrye-Wouj,KOET,Bonnement,Monestimetelfort@gmail.com,,,0,Telfort Monestime,54,Homme,,,,,19.63271,-71.935426,2025-08-31,147,30+
+23,24,Asosyasyon Pwodiktè Lèt Ench,APWOLEE,Saint Plaza,jnclaudepierre95@gmail.com,,,0,Christiane Adrien,27,Femme,,,,,19.146978,-71.9949433,2025-11-23,12,15-29
+24,25,Le Sanctuaire Ferme Agricole,SFA,Devesien,Afedaud@gmail.com,,,0,Fedaud Augustin,48,Homme,,,,,19.628718,-71.938931,2025-04-07,148,30+
+25,26,Poulailler Herold,nan,Centre ville,,,,0,Jean Baptiste Hérold,79,Homme,,,,,19.4452312,-71.6920161,2024-04-19,98,30+
+26,27,Poulailler Adrien,nan,Impasse Adrien,,,,0,Anne-Marie Joseph,40,Femme,,,,,19.4526906,-71.6922446,2024-02-20,100,30+
+27,28,Poulailler Jean Frantzy,nan,Brunette,,,,0,Jean Frantzy,59,Homme,,,,,19.4570313,-71.6958581,2026-06-19,99,30+
+28,29,Poulailler Jameson,nan,Baja,,,,0,Jameson Joseph,24,Homme,,,,,19.5056778,-71.7055114,2025-04-02,95,15-29
+29,30,Ferme Andre Production Agricole de Dumas,FAPAD,Nan Pi a,Jeanjosehandre307@gmail.com,,,0,André Jean Joseph,52,Homme,,,,,19.597446,-71.835456,2024-07-19,116,30+
+30,31,FERME FENDAL,FERME FENDAL,Marinette,simonfendal@gmail.com,,,0,Fendal Youbens Simon,67,Homme,,,,,19.2556864,-71.9409773,2027-06-07,3,30+
+31,32,Christ Capable Ferme d'Elevage,CCFE,Trois Boipins,sleekenson@gmail.com,,,0,Saintil Luckenson,24,Homme,,,,,19.2661575,-71.9233812,2024-12-27,5,15-29
+32,33,KABRIT KISKEYA,KABRIT KISKEYA,Nan Guerrier/ Trois Boipins,rwasembeck@yahoo.com,,,0,Aganette Simon,28,Femme,,,,,19.2707354,-71.9153926,2026-02-07,4,15-29
+33,34,G&G SERVICES AGRICOLES,G&G SERVICES AGRICOLES,Jacob,orinesaugustingeg50@yahoo.com,,,0,Augustin Orines,43,Homme,,,,,19.1836387,-71.9337367,2027-11-20,30,30+
+34,35,Agropharma,nan,Duhaut,Infoagropharma@gmail.com,,,0,Volcy Souvenir,70,Femme,,,,,19.5457912,-71.7536984,2025-10-28,135,30+
+35,36,Centre AgroVétérinaire,CETAVET,Dilaire,hcetave@gmail.com,,,0,Sonther Horacius,77,Homme,,,,,19.5484219,-71.7667849,2027-09-26,134,30+
+36,37,Nouvo Jaden agrikòl,nan,Dilaire,Aariotsilien1987@gmail.com,,,0,Silien Mariot,42,Homme,,,,,19.5486994,-71.7672215,2024-08-25,129,30+
+37,38,Poulailler Carmilus,nan,Dilaire,,,,0,Joseph Carmilus,39,Homme,,,,,19.5484219,-71.7667849,2024-08-13,134,30+
+38,39,AGROTECH,nan,Tchamba #124,Agrotechaiti2007@yahoo.fr,,,0,Pascal DESORMES,49,Homme,,,,,19.3137812,-71.554017612,2025-09-18,142,30+
+39,40,Centre de Santé et de Développement Intégré,CSDI,Bois Couleuvre,faublasjoseph@gmail.com,,,0,Joseph Faublas,88,Homme,,,,,19.2771443,-71.9446144,2026-03-22,2,30+
+40,41,Poulailler Gilbert,nan,Habitation boujo,,,,0,Gilbert Nolcy,38,Homme,,,,,19.28286644,-71.435835288,2025-02-27,127,30+
+41,42,Agroveterinaire,nan,Dilaire,,,,0,Narcisse Rodly,54,Homme,,,,,19.5484219,-71.7667849,2025-11-19,134,30+
+42,43,Solution AgroVétérinaire,SOLAVET,Ville de Port-à-Piment,solavet@gmail.com,,,0,Emile Rigaud,67,Homme,,,,,18.25194,-74.09855,2025-03-30,211,30+
+43,44,Dallas Farm,nan,"Cascade Touyak, Port-Salut",dallasfarms.ht@gmail.com,,,0,Michel Ely Monnin,68,Homme,,,,,18.09816,-73.92542,2024-05-27,209,30+
+44,45,Association des Organisations Paysannes de Charlemagne,AOPC,"Rue du Mars, Bénèche",mariefrançoiselubin8@gmail.com,,,0,Marie Françoise Lubin Michelle,47,Femme,,,,,18.27733,-74.16436,2024-12-04,207,30+
+45,46,Aucun nom à date,nan,Centre-VIlle,,,,0,Relet Jean,30,Homme,,,,,18.25235,-74.10185,2027-12-23,210,30+
+46,47,Agrogau Entreprise,nan,"St-Felix, à cote de la riviere Lacul",agrogauproduction@gmail.com,,,0,Mish'ner Gauthier,52,Homme,,,,,18.539269,-72.336408,2025-10-27,216,30+
+47,48,Bon Jaden Lakay,nan,Duhaut,Bonjadenlakay@yahoo.com,,,0,Doudy Pierre,72,Homme,,,,,19.5457805,-71.7455053,2025-09-04,136,30+
+48,49,Ferme Agricole Anna's Saintvil,SAENA,Dilaire (Robino 1),edsonnarcisse42@gmail.com,,,0,Edson Narcisse,67,Homme,,,,,19.5536155,-71.7660034,2026-08-16,132,30+
+49,50,Poulailler Debs,nan,Dilaire/route Acul des pins,michanecybelton608@gmail.com,,,0,Belton Michanecy,61,Homme,,,,,19.539438,-71.778206,2025-04-15,130,30+
+50,51,Ferme Manigat donnat,nan,Baja,Josephcalinx1@gmail.com,,,0,Calinx Joseph,87,Homme,,,,,19.4816467,-71.7163637,2025-11-16,94,30+
+51,52,Laiterie de Ferrier,nan,Terre Blanche,Steeve.alexandre.16.sa@gmail.com,,,0,Steeve Alexandre,34,Homme,,,,,19.61662,-71.7897601,2024-08-31,110,30+
+52,53,Groupman Agrikòl Ferrye,GAF,Blon (Gustave),,,,0,Rochenel Eustache,39,Homme,,,,,19.6212413,-71.7732361,2025-08-14,106,30+
+53,54,Ferme la chèvre qui rit,nan,Terre Blanche,,,,0,Dieu Amboise,78,Homme,,,,,19.61662,-71.7897601,2024-06-17,110,30+
+54,55,Le Canaan Production / FA Production,nan,Habitation Bwapè,Weslyedmond98@gmail.com,,,0,Maguie JOSEPH,42,Femme,,,,,19.623526,-72.016964,2027-06-16,154,30+
+55,56,Poulailler Jinjha,nan,Sance,,,,0,Jinjha Pierre,90,Homme,,,,,19.5323209,-71.7321107,2026-07-29,131,30+
+56,57,Solution Boutique Agricole,SOBA,Route Nle Carrefour Chivry,Nadou7468@yahoo.fr,,,0,Jasmine PIERRE,32,Femme,,,,,19.637483,-71.833102,2026-09-10,114,30+
+57,58,Poulailler,nan,Nan plezi,Fluerismalakay@gmail.com,,,0,Anel Fleurisma,21,Homme,,,,,19.4041064,-71.7806457,2025-09-02,124,15-29
+58,59,Poulailler Gilbert,nan,Nan plezi,Gj348803@gmail.com,,,0,Joseph Gilbert,23,Homme,,,,,19.4041064,-71.7806457,2025-04-19,124,15-29
+59,60,Poulailler Père Yvon,nan,"Centre ville, à coté del'Eglise catholique de Mont-Organisé",Beliardi@hotmail.com,,,0,Yvon Béliard,44,Homme,,,,,19.4095833,-71.7804321,2027-09-14,123,30+
+60,61,Association des Femme en action pour le developpement de Mont-Organisé,AFADMO,Bas bois pin Cao,fafadmo70@yahoo.com,,,0,Clausette Mercelin,46,Femme,,,,,19.4022166,-71.7765567,2026-05-31,125,30+
+61,62,Entreprise Ferme Agropastorale de Mont-Organisé,EFAMO,Bas bois pin Cao,Sannavetitus81@gmail.com,,,0,Salnave Titus,31,Homme,,,,,19.402738,-71.7768257,2026-09-12,121,30+
+62,63,Poulailler,nan,Calvaire,,,,0,Maxine Aristyl,74,Homme,,,,,19.4139412,-71.7808259,2025-10-03,120,30+
+63,64,Poulailler Marcky,nan,Avenue Capois numéro 88,Noelmarckyy@gmail.com,,,0,Marcky Noel,77,Homme,,,,,19.551131,-71.7187747,2025-06-30,137,30+
+64,65,Laiterie de Ouanaminthe/GEDWA,GEDWA,Duhaut,,,,0,Ange Marie Joasard,80,Femme,,,,,19.5457912,-71.7536984,2027-09-14,135,30+
+65,66,Poulailler Bernadin,nan,Dilaire,,,,0,Jean-Claude Bernadin,53,Homme,,,,,19.5486994,-71.7672215,2025-12-01,129,30+
+66,67,"Ferme d'Expérimentation, de production pour la Vulgarisation Agricole d'Haiti",FEPVAH,Dlo Carice,Guerlandeduval@hotmail.com,,,0,Guerlande Duval,70,Femme,,,,,19.386057,-71.8362534,2026-11-24,104,30+
+67,68,Ferme de l'avenir,nan,"Bas fort, près du terrain de football",manobla1512@gmail.com,,,0,Wis Gilles,50,Homme,,,,,19.4634248,-71.6919836,2024-12-03,97,30+
+68,69,Ferme Agricole la Réserve,FAR,Bosco,Lareserveclub@gmail.com,,,0,Bruno Brunel,49,Homme,,,,,19.55547,-71.868262,2025-08-14,115,30+
+69,70,Dlina Production,nan,Piedor,Lyndosaintpreux@gmail.com,,,0,Saint-Preux Winston,77,Homme,,,,,19.575483,-71.856889,2024-03-01,117,30+
+70,71,Wed & Sam Pharmacie Vétérinaire,nan,Rue du Quay,Weslyedmond78@gmail.com,,,0,Sonise Antoine,45,Femme,,,,,19.612273,-72.026571,2025-07-14,153,30+
+71,72,Ferme de Production la Renaissance de Terrier Rouge,FPRTR,Morne à Père,,,,0,Saint-Ange Étienne,52,Homme,,,,,19.630687,-71.958863,2026-04-30,143,30+
+72,73,Association des apiculteurs de ferrier,AAF,Casimir,Renejeremie@yahoo.fr,,,0,Jérémie René,67,Homme,,,,,19.6102655,-71.7834724,2027-08-06,105,30+
+73,74,Association des.producteurs de lait et éleveurs de Ferrier,APLEF,Marie thérèse,,,,0,Francelin Jean Baptiste,20,Homme,,,,,19.6163916,-71.7830284,2027-03-31,108,15-29
+74,75,Dermance Pierre,nan,Lòtbò Pon,,,,0,Dermance Pierre,60,Homme,,,,,19.635884,-71.950603,2025-09-30,151,30+
+75,76,James Augustin,nan,Fond Blanc,,,,0,James Augustin,22,Homme,,,,,19.635871,-71.950629,2026-11-24,152,15-29
+76,77,Ferme Heptagone,FH,Man Bwapen,Marioantoine@rocketmail.com,,,0,Jean Mario Antoine,30,Homme,,,,,19.664144,-71.980061,2025-12-20,144,30+
+77,78,A & A production agricole,nan,Pilette,Amfaltidor@yahoo.fr,,,0,Altidor Louidès,27,Homme,,,,,19.583332,-72.013813,2025-10-01,157,15-29
+78,79,Calixte Delforce Ferme,CD Ferme,Lafresiliere,delforcemakenson@gmail.com,,,0,Makenson Delforce,49,Homme,,,,,18.23164,-73.8465183,2025-06-06,214,30+
+79,80,PDF Entreprise Agricole,PDF Entreprise Agricole,Aguaedionne,pdjerryfaucolt@gmail.com,,,0,Pierre Djerry Faucolt,60,Homme,,,,,19.1330537,-71.9031584,2025-06-02,15,30+
 80,81,"Centre d'expérimentation, de production et de vulgarisation agricole(CEPVA)","
-CEPVA",Tilorye,Charlespierremaxime0@gmail.com,,,0,Maxime Charles Pierrel,0,Homme,,,,,,,,140
-81,82,Poulailler Emilus Jeannot,nan,Robino,,,,0,Emilus Jeannot,0,Homme,,,,,,,,138
-82,83,Imago Ferme de production,Imago Ferme de production,Pablocal,,,,0,Imado Augustin,0,Homme,,,,,,,,33
-83,84,Abel Joseph,nan,Savane Carré,Josephabel254@gmail.com,,,0,Abel Joseph,0,Homme,,,,,,,,146
-84,85,Mouvement Paysans Papaye,MPP,Route de Papaye,dieugrand.jb@gmail.com,,,0,Ally Junior,0,Homme,,,,,,,,11
-85,86,Eco champ S.A,nan,Rentrée Charrier,ecochamp.sa@gmail.com,,,0,Winchel Cherestal,0,Homme,,,,,,,,204
-86,87,MS Boucherie,Meet Service Boucherie,"Imp Cénèque, mercy",msboucherie@yahoo.com,,,0,Visené Jean Bethlem,0,Homme,,,,,,,,203
-87,88,Visionnaire Agro-vert,VAV,"14, Ducis, solon (boval)",visionnaireagrovert@gmail.com,,,0,Hervens JONA,0,Homme,,,,,,,,224
-88,89,Rozaj Global Production et Distribution,nan,"75, Rue Dessy, Cayes",despagnej@yahoo.fr,,,0,Despagne Jean Fritz,0,Homme,,,,,,,,205
-89,90,FESGA,nan,"22, boudette",fesga2010@gmail.com,,,0,Wilsonn Dorsainvil,0,Homme,,,,,,,,187
-90,91,Lakou plètil,nan,La colline Moreau,josephcdaudier@gmail.com,,,0,DAUDIER Joseph Chavannes,0,Homme,,,,,,,,221
-91,92,Complexe Agriocole Grands Planteure d'haiti,CAGP,Pesmel,complexegrandsplanteurs@gmail.com,,,0,PHILLIPE Darlin,0,Homme,,,,,,,,179
-92,93,2R,nan,Boujouly,eclairedg223@gmail.com,,,0,Renette Lordé,0,Femme,,,,,,,,175
-93,94,Selimond Pierre Wilfrid,nan,Regnier,,,,0,Selimond Pierre Wilfride,0,Homme,,,,,,,,217
-94,95,Jardin meridional,nan,Lagodré,jardinmeridional07@gmail.com,,,0,Chery Junior Getrau,0,Homme,,,,,,,,176
-95,96,EDMAX,nan,Rue gaussin,kerlovecleger141@gmail.com,,,0,Clerger Marie Kerlove,0,Femme,,,,,,,,194
-96,97,Bélicia Baltazar,nan,"Charpentier, route simon",,,,0,Bélicia Baltazar,0,Femme,,,,,,,,196
-97,98,BERTOLET Poulailler,nan,"Cayes, derrière croix, en face NIRA Variété",stcyrwitchler633@gmail.com,,,0,St Cyr Wit Chler,0,Homme,,,,,,,,191
-98,99,Friend's Farm Haïti,FFH,Guilléme (kay mine Moise),dorcorsen@gmail.com,,,0,Orsen Dorcenat,0,Homme,,,,,,,,198
-99,100,G6,nan,Raymond,mackensonlaguerre7@gmail.com,,,0,Laguerre Mackenson,0,Homme,,,,,,,,168
-100,101,Angelo Poule,nan,Champlois,,,,0,Dorcé Angelo,0,Homme,,,,,,,,163
-101,102,JEL production,nan,Trou Levy,djocko32@gmail.com,,,0,Djovens Constant,0,Homme,,,,,,,,164
-102,103,Opulence poulailler,nan,Levy,gaetantdolcine@yahoo.fr,,,0,Dolciné nean Gaetant,0,Homme,,,,,,,,165
-103,104,Cooperative d'Appui à la Production Agricole  Sud,CAPAS,Taïvant (Laborde),capas2001@gmail.com,,,0,Jean philippe Dantley,0,Homme,,,,,,,,182
-104,105,Poulailler wilnert,nan,Baja,,,,0,Wilnert Paul,0,Homme,,,,,,,,96
-105,106,Association des Jeunes Engagés pour le Développement Socio-économique de Garde-Hiram ,AJEDSG,Garde-Hiram ,associationajedsg@yahoo.com,,,0,Cessaire Wedlet ,0,Homme,,,,,,,,88
-106,107,Agro-Production,AGPRO,Coladère,enoldjulien@gmail.com,,,0,Enold Julien,0,Homme,,,,,,,,16
-107,108,Solidarité poulailler,nan,Moreau,,,,0,Calvaire Jean Rénal,0,Homme,,,,,,,,219
-108,109,Félicité ferme d'élevage,FFE,Samana,,,,0,Baudeler Louis,0,Homme,,,,,,,,18
-109,110,Agro Jhonncy Poulailler ,AJP,Moreau ,etiennejhonncy@gmail.com ,,,0,Jhonncy Étienne ,0,Homme,,,,,,,,42
-110,111,Kiskeya vèt,nan,Route lafleur,Pierredoudt@gmail.com,,,0,Doudy Pierre,0,Homme,,,,,,,,126
-111,112,La faune et.la.flore production,nan,Colonie 2,Agnesraphael76@gmail.com,,,0,Raphael Agnès,0,Homme,,,,,,,,122
-112,113,ORENE( organisation's pou refòm anviwonmantal nodès,nan,Dilaire,lecoagr@yahoo.fr,,,0,Monpremier Leclerc,0,Homme,,,,,,,,128
-113,114,Ferme Agricole de Mérande SA,FAMSA,Mérande,,,,0,Elaine Cadet,0,Femme,,,,,,,,109
-114,115,G&G agroentreprise,nan,Do Vapor,Infoggagroentreprise@gmail.com,,,0,Gérald Nelson,0,Homme,,,,,,,,107
-115,116,Poulailler chenet,nan,Gaston dilaire,,,,0,Chenet zavier,0,Homme,,,,,,,,133
-116,117,Poulailler Éric Sylvestre,PEV,Garde-Hiram,,,,0,Éric Sylvestre,0,Homme,,,,,,,,87
-117,118,Sonje Lakay Poulailler ,SLP,Garde-Hiram,gessonsenelus94@gmail.com ,,,0,Gesson Phenelus,0,Homme,,,,,,,,87
-118,119,Zero Stress poulailler,ZSP,Bas du Bourd,,,,0,Chevalier Gary,0,Homme,,,,,,,,39
-119,120,Mouvement de Solidarité des Travailleurs de Saltadère,MOSOTRAS,Saltadère,mosotras99@gmail.com,,,0,Ivenel Cenatus,0,Homme,,,,,,,,9
-120,121,Klèb Foumi Labòd,KFLA,"Laborde, Tayivan",labodklebfoumi@gmail.com,,,0,Marie Carole Augustave,0,Femme,,,,,,,,200
-121,122,A&F Production Animale et Végétale,A&F,Lospine,bienaimeasline2gmail.com,,,0,Lacossière Fegencito,0,Homme,,,,,,,,7
-122,123,Poulailler Adrien Arold,nan,Bas Fort,,,,0,Adrien Arold,0,Homme,,,,,,,,101
-123,124,Vinxtech production,nan,Mamoulé,,,,0,Léonce Michel,0,Homme,,,,,,,,139
-124,125,Poulailler Vincent Monestime,nan,Bedou,,,,0,Vincent Monestime,0,Homme,,,,,,,,141
-125,126,AVI-AGRO,nan,Simond,josephsamuel0991@gmail.com,,,0,Joseph Samuel,0,Homme,,,,,,,,177
-126,127,Agrotop SNC,Agrotop SNC,Bourjoly 2,agrotopsnc@gmail.com,,,0,Avridor Assert,0,Homme,,,,,,,,190
-127,128,Ferme Avicole de Grand Latanier,FAGL,Grand Latanier,genercene@yahoo.fr,,,0,Gener Cené ,0,Homme,,,,,,,,19
-128,129,Bon Poul Palye,nan,"Formond, bourry",jeanclaudesoamil@yahoo.com,,,0,Louis Jean Claude Soamil,0,Homme,,,,,,,,222
-129,130,Sanon Marie Mariana,nan,"Codere , laborde (3ème section commune des cayes)",fenolddameçois@gmail.com,,,0,Sanon Marie Mariana,0,Femme,,,,,,,,199
-130,131,BECEP,Bureau d'étude construction et exécution des projets,"Charpentier, route FINCA",becep940@gmail.com,,,0,Vertilus Jean Durano,0,Homme,,,,,,,,192
-131,132,American University of the Caraibeen,AUC,Centre-Ville (charpentier),asimilien@auc.edu.ht,,,0,Paul Touloute,0,Homme,,,,,,,,195
-132,133,Jean Renel St Donis,nan,Guichard,,,,0,Jean Renel St Donis,0,Homme,,,,,,,,162
-133,134,Roy production et distribution,nan,Miserne,r.saintpaul@yahoo.com,,,0,Renant St Paul,0,Homme,,,,,,,,186
-134,135,Milord Gerard Steeve,nan,Berault,mgerardsteeve@gmail.com,,,0,Milord Gerard Steeve,0,Homme,,,,,,,,215
-135,136,Frisnel et Jonald,FJ,"Rouk, antre gran bouchi",abelardjonald@gmail.com,,,0,Jonald Abelard,0,Homme,,,,,,,,213
-136,137,Bastia Ferme d'élevage ,BFE,Lapatie,,,,0,Othon Bastia,0,Homme,,,,,,,,10
-137,138,Sternum Entreprise,SE,Centre Marmont,gillesjeangilbert4@gmail.com,,,0,Gilles Jean Gilbert,0,Homme,,,,,,,,31
-138,139,Ferme Agricole Sapatère,FAS,Sapatère,odlinjp314@gmail.com,,,0,Odlin Jean Pierre,0,Homme,,,,,,,,34
-139,140,Kominote Familyal Peyizan Centre ,KFP-Centre ,Baunabite,deus20lougenson@gmail.com,,,0,Deus Lougenson,0,Homme,,,,,,,,25
-140,141,Odjeeez poulailler,OP,Carrefour Ledant,jul9403@gmail.com,,,0,Markenzie Brun,0,Homme,,,,,,,,26
-141,142,Ronald JOSEPH,nan,Carrefour Chivry / Vye bouk,,,,0,Ronald JOSEPH,0,Homme,,,,,,,,119
-142,143,Rivelino JOSEPH,nan,Derac,Josephrivelino2@gmail.com,,,0,Rivelino JOSEPH,0,Homme,,,,,,,,118
-143,144,Raymond raynold poulailler,RRP,Habitation duperier,raymondraynoldcharles02@gmail.com,,,0,Charles  Raynold Raymond,0,Homme,,,,,,,,60
-144,145,Amitié poulailler,AP,Habitation duperier,frednellable@gmail.com,,,0,LABLE frednel,0,Homme,,,,,,,,61
-145,146,La réserve poulailler,Pas d acronyme,Habitation kado,evaristeyolin94@gmail.com,,,0,EVARISTE Yolin,0,Homme,,,,,,,,72
-146,147,Le poulet du rocher,nan,Breda 2,,,,0,JACQUES Joseph,0,Homme,,,,,,,,67
-147,148,Fleurant chèvre,nan,"Rue Royam,10",Fleurantwisman@gmail.com,,,0,FLEURANT Wisman,0,Homme,,,,,,,,65
-148,149,L' eternel est grand poulailler,nan,Habitation kaga,mompremierguerfry@gmail.com,,,0,Mompremier Suzie,0,Femme,,,,,,,,62
-149,150,Winter poulailler,nan,Haibation duperier,,,,0,ALTIDOR Weenter,0,Homme,,,,,,,,68
-150,151,Agro sully plymouth,nan,"Bois caïman,villa pestalozzi",sullypierre4@gmail.com,,,0,Pierre sully,0,Homme,,,,,,,,59
-151,152,Lana poulailler,nan,Breda 1,Loventzjoseph8@gmail.com,,,0,Loventz Joseph,0,Homme,,,,,,,,69
-152,153,Entre nous poulailler,nan,Galois,guerlincompere38@gmail.com,,,0,COMPERE Guerlin,0,Homme,,,,,,,,70
-153,154,Le palmiste poulailler,nan,Ile - Adam,josephkenson21@gmail.com,,,0,Joseph Kenson,0,Homme,,,,,,,,66
-154,155,LEG poulailler,nan,Galois,osias3207@gmail.com,,,0,OSIAS louicius,0,Homme,,,,,,,,71
-155,156,EKILIB Pouilailler,EP,Bas l'acul du Nord,jaccilienclermont@gmail.com,,,0,Clermont Jaccilien,0,Homme,,,,,,,,38
-156,157,LAVI PAP DIW famasi veterinè,nan,Duperier,BJMW1999@gmail.com,,,0,BENJAMIN wisly,0,Homme,,,,,,,,63
-157,158,Ferme Solidarité,FS,Nazon,Gvallery22@gmail.com,,,0,Gary Bruno,0,Homme,,,,,,,,150
-158,159,Entre nous poulailer,nan,Nan Rat,magustinrode@gmai.com,,,0,Magustin Rodeline,0,Femme,,,,,,,,57
-159,160,Elie poulailler,nan,Ile Adam,,,,0,Sylvain Elie,0,Homme,,,,,,,,64
-160,161,Société de Formation de Production et de Distribution,SOFPRODIT,Habitation Demier,Echarles1967@yahoo.fr,,,0,Enos CHARLES,0,Homme,,,,,,,,149
-161,162,Entreprise de la production agricole,EPIA,Madeline,Noelraymond234@yahoo.com ,,,0,Noel Raymond,0,Homme,,,,,,,,84
-162,163,Le Poulet Chic de Marmont,LPCM,Haibon,geranesbelizaire@gmail.com,,,0,Belizaire Geranés,0,Homme,,,,,,,,32
-163,164,Altagrace poulet Local,Altagrace Poulet Local,Pandiassou,altagracelouis15@gmail.com,,,0,Louis Jeune Ilnive D´Altagrace,0,Femme,,,,,,,,28
-164,165,Partenaria pour le Développement Local,PDL,Cajou Rond,cantavejb@gmail.com,,,0,Cantave Jean Baptiste,0,Homme,,,,,,,,91
-165,166,Kay plantè,nan,Bonnay dugal/Route nle#3,kayplanteagroveterinaire@gmail.com,,,0,xavier Villard,0,Femme,,,,,,,,81
-166,167,PRODWI BON KALITE,PROBO-K,La rue / Rte Nle #5,virgilienpaul@gmail.com,,,0,PAUL Virgilien,0,Homme,,,,,,,,86
-167,168,Centre Agro-pastoral des Petites Surs de Ste Thérèse,CAPST,Carrefour Chivry,Centrepast2022@gmail.com,,,0,Alvanie Pièrre-Louis,0,Femme,,,,,,,,111
-168,169,Probo-K,nan,Savane Carré,Virgilienpaul@gmail.com,,,0,Virgilien Paul,0,Homme,,,,,,,,145
-169,170,Alexis et Pluviose agro entreprise vétérinaire,A$P agro entreprise vétérinaire,Carrefour la mort,renoalexis87@icloud.com,,,0,ALEXIS Reno,0,Homme,,,,,,,,83
-170,171,Ferme Le vieux Chardo,V.C,"Boni, lapas",info@levieuxchardo.com,,,0,Alix Denis Hibart,0,Homme,,,,,,,,206
-171,172,Centre d' Encadrement de la Production Agricole pour le developpement Haiti,CEPADH,2eme pont,garconberny11@gmail.com,,,0,Garçon Berny,0,Homme,,,,,,,,36
-172,173,Entreprise Nationale de Services et de Production Agricole,ENASPA,Malfety,Enaspa2000@gmail.com,,,0,Aquino Volcy,0,Homme,,,,,,,,112
-173,174,Complexe C& L,R&L,Morne rouge,paulrodnay2016@gmail.com,,,0,Paul Rodnay,0,Homme,,,,,,,,75
-174,175,AGRIFAZ,nan,Roucou,wisneltanis108@gmail,,,0,Tanis wisnel,0,Homme,,,,,,,,45
-175,176,New Roots Haïti,NRH,Chiron,Nick@NewRootsHaïti.org,,,0,Williams Nicolas Stolberg,0,Homme,,,,,,,,74
-176,177,Alfredo entreprise agro veterinaire,ALAVEGE,Rte nationale # 6,fanelalfred854@gmail.com,,,0,Fanel Alfred,0,Homme,,,,,,,,51
-177,178,Rasanbleman Fanm Vanyan Limonad,RAFAVAL,"#002, Rue Bellevue palais -Roi",rrafaval2022@gmail.com,,,0,Ernise Pétigny,0,Femme,,,,,,,,52
-178,179,Asosyasyon Pwodiktè Lèt limonad,APWOLIM,Roucou,milienisrael955@gmail.com,,,0,ISRAEL milien,0,Homme,,,,,,,,43
-179,180,Agrifeed,nan,Roucou,louisyonel34@gmail.com,,,0,YONEL LOUIS,0,Homme,,,,,,,,43
-180,181,Renaissance Ferme,nan,"Wo kan, champoi, camp-perrin",similien2009@yahoo.fr,,,0,Similien Flaubert,0,Homme,,,,,,,,170
-181,182,Seeds of quality,nan,Centre ville,seedsofq.volcyrespo@gmail.com,,,0,Volcy Marc Pierre,0,Homme,,,,,,,,188
-182,183,GK Gntreprise Agricole,GK Entreprise Agricole,Mayaya,kingdygarc@yahoo.com,,,0,Garçon Kingdy,0,Homme,,,,,,,,41
-183,184,Poulailler Moderne,PM,Saltadère,senatusmichelet53@gmail.com,,,0,Senatus Michelet,0,Homme,,,,,,,,6
-184,185,Institution Fitz Gérard,IFG,Lospinique,Jb166455@gmail.com,,,0,Jordany Bertin,0,Homme,,,,,,,,40
-185,186,Laiterie de Poste-Droit,nan,Poste-Droit,soniajoseph270@gmail.com,,,0,Sonia Joseph,0,Femme,,,,,,,,220
-186,187,Equipe technique de construction,ETEC,Centre laborde,piverlylouis@gmail.com,,,0,Peverly Louis,0,Homme,,,,,,,,184
-187,188,Wid Agricole,nan,Pont salomon,willfrancois88@gmail.com,,,0,François Willio,0,Homme,,,,,,,,189
-188,189,Société d'Expansion de la Production agricole et commercialisation de Torbeck,SEPACT,Mayard,sepacthaiti@yahoo.com,,,0,Cadet Jean Samuel,0,Homme,,,,,,,,223
-189,190,Lido poulailler,nan,Fosseur capois,,,,0,Paul jean robens,0,Homme,,,,,,,,53
-190,191,Agro Yvon Service,nan,Boudet,agroyvonservices@gmail.com,,,0,Alcegaire Yvon,0,Homme,,,,,,,,174
-191,192,COSMOS,COSMOS,Seramont,jeansignylouis@gmail.com,,,0,Gaël Cherestil,0,Homme,,,,,,,,14
-192,193,Beraca dépôts  articles divers,nan,Bonney dugal,wilnoolizard@gmail.com,,,0,Olizard wilno,0,Homme,,,,,,,,82
-193,194,Aviculture maximum,AVIMAX,Capette,levy47@gmail.com,,,0,RICHEMOND E. LEVY,0,Homme,,,,,,,,103
-194,195,La petite Ferme Agricole,PFA,"3ème section, trichet, St Jean du Sud",rogerjeanernsot@gmail.com,,,0,Roger Jean Ernsot,0,Homme,,,,,,,,212
-195,196,Cooperation dea association pour la production agricole et du developpement,CAPAD,Mercy,emilcyjed2@gmail.com,,,0,Emilcy Jean Edelan,0,Homme,,,,,,,,185
-196,197,Mezi jezi poulailler,nan,Granpré,,,,0,IMMACULA Thomas,0,Femme,,,,,,,,76
-197,198,S&L entreprise agricole,nan,Granpré,josephsadrac888@gmail.com,,,0,Sadrac Joseph,0,Homme,,,,,,,,79
-198,199,Les caprins d' haïti,nan,Mazère,vilmerpaul@gmail.com,,,0,VILMER PAUL,0,Homme,,,,,,,,77
-199,200,Amigo poissonerie et chacuterie,nan,Carrefour jésus,blancbeljou@yahoo.com,,,0,Jean Augustin,0,Homme,,,,,,,,102
-200,201,Ferme Vision et Action,nan,Localité Maneska,Jephtecelicourt07@gmail.com,,,0,Celicourt Jephté,0,Homme,,,,,,,,159
-201,202,Magie Verte Entreprise Agricole,MAVEA,Boulard,magieverteentrepriseagricole@gmail.com,,,0,Nordeus Yveleine,0,Femme,,,,,,,,226
-202,203,Yahvé Shamma,YSHA,Dòl,decossardfrantz59@gmail.com,,,0,Décossard Frantz,0,Homme,,,,,,,,172
-203,204,La chèvrerie de kilou,nan,Charles pierre,manigat84@yahoo.fr,,,0,MANIGAT LUC KILLICK JUNIOR,0,Homme,,,,,,,,46
-204,205,Ferme d'élevage de Georges Louicimar,nan,Roucou,loussy71@gmail.com,,,0,Louicimar georges gedeon,0,Homme,,,,,,,,49
-205,206,Association des Cadres pour la Protection de l'Environnement,ACAPE,Codet,rdelinois@yahoo.fr,,,0,Wilner Louis,0,Homme,,,,,,,,180
-206,207,Ferme d' élevage de Berard,nan,Berard,,,,0,PREVIL Harold,0,Homme,,,,,,,,80
-207,208,EMF Entreprise Agricole,EMFEA,Langlwa,emilcywendelson@gmail.com,,,0,Emilcy Wendelson,0,Homme,,,,,,,,201
-208,209,Organisation pour le Développement de Lahatte Arniquet Bétail,ODHA BETAIL,Centre Taverne,jeansmithmarcjoseph@gmail.com,,,0,Joseph Jean Smith Marc,0,Homme,,,,,,,,161
-209,210,Organisation des Agriculteurs et des Planteurs de Bouette,ORAPB,Kafou laval,ocvilejames@gmail.com,,,0,Buteau Jn Wilner,0,Homme,,,,,,,,202
-210,211,Ferme Familial Agricole de Pilette,FFAP,Pilette,"Cemefco@gmail.com, ffapilette@gmail.com",,,0,Elizabeth Destiné Dorsainvil,0,Femme,,,,,,,,157
-211,212,Mouvement des Investisseurs de Camp-perrin,MIC,Picot,enellaguerre@gmail.com,,,0,Enel Laguerre,0,Homme,,,,,,,,169
-212,213,Amazone production agricole,nan,Lazard,amazoneproduction@gmail.com,,,0,Joseph Rony,0,Homme,,,,,,,,85
-213,214,JLJ Poulailler,nan,Mathone,,,,0,Desir Ricardo,0,Homme,,,,,,,,37
-214,215,ANTRAID Production,AP,Bezen,medsagine@gmail.com,,,0,Sagine MEDE,0,Femme,,,,,,,,225
-215,216,Splendeur agrobusiness,nan,Langlaise,decimussandro1997@yahoo.com,,,0,Decimus Sandro,0,Homme,,,,,,,,56
-216,217,Lanati Farm,LF,Pont salomon,jehielappolon@gmail.com,,,0,Appolon Jehiel Kedma,0,Homme,,,,,,,,197
-217,218,Mouvman Peyizan Nò,MOPENO,Dubout,kjulien03@yahoo.com,,,0,Julien Kettly,0,Femme,,,,,,,,44
-218,219,Societé Agricole de Production et de  l ' élevage du Nord.Sa,SAPENSA,"Route Nle # 6, wn face Campus UEH",stv_mathieu@yahoo.com,,,0,Steeve A.Mathieu,0,Homme,,,,,,,,50
-219,220,AGWO PÈP LA, APL,Route Nationale #3,Agwopepla@gmail.com,,,0,Gellin Brunel,0,Homme,,,,,,,,89
-220,221,Ferme La Bellevue,nan,Roche André,Ornecifortphanor@gmail.com,,,0,PHANOR Ornécifort,0,Homme,,,,,,,,160
-221,222,Agrozoo Services,AGS,Mulet,,,,0,Widelande Gérard,0,Femme,,,,,,,,173
-222,223,Sol Agriplus,nan,Laroche au Pont,solidariteagricultureplus@gmail.com,,,0,Rosena Dieurilus,0,Femme,,,,,,,,167
+CEPVA",Tilorye,Charlespierremaxime0@gmail.com,,,0,Maxime Charles Pierrel,75,Homme,,,,,19.554203,-71.7424999,2027-03-05,140,30+
+81,82,Poulailler Emilus Jeannot,nan,Robino,,,,0,Emilus Jeannot,37,Homme,,,,,19.5546985,-71.7682469,2024-11-27,138,30+
+82,83,Imago Ferme de production,Imago Ferme de production,Pablocal,,,,0,Imado Augustin,51,Homme,,,,,19.0799055,-71.855836,2025-06-14,33,30+
+83,84,Abel Joseph,nan,Savane Carré,Josephabel254@gmail.com,,,0,Abel Joseph,27,Homme,,,,,19.629457,-71.909875,2026-09-24,146,15-29
+84,85,Mouvement Paysans Papaye,MPP,Route de Papaye,dieugrand.jb@gmail.com,,,0,Ally Junior,24,Homme,,,,,19.1483478,-71.9984806,2025-02-04,11,15-29
+85,86,Eco champ S.A,nan,Rentrée Charrier,ecochamp.sa@gmail.com,,,0,Winchel Cherestal,61,Homme,,,,,18.2331781,-73.780573,2026-10-10,204,30+
+86,87,MS Boucherie,Meet Service Boucherie,"Imp Cénèque, mercy",msboucherie@yahoo.com,,,0,Visené Jean Bethlem,46,Homme,,,,,18.2539596,-73.7766406,2026-04-29,203,30+
+87,88,Visionnaire Agro-vert,VAV,"14, Ducis, solon (boval)",visionnaireagrovert@gmail.com,,,0,Hervens JONA,52,Homme,,,,,18.2350936,-73.8810036,2027-10-26,224,30+
+88,89,Rozaj Global Production et Distribution,nan,"75, Rue Dessy, Cayes",despagnej@yahoo.fr,,,0,Despagne Jean Fritz,22,Homme,,,,,18.1994157,-73.7538188,2025-08-20,205,15-29
+89,90,FESGA,nan,"22, boudette",fesga2010@gmail.com,,,0,Wilsonn Dorsainvil,76,Homme,,,,,18.2244875,-73.7692653,2026-05-10,187,30+
+90,91,Lakou plètil,nan,La colline Moreau,josephcdaudier@gmail.com,,,0,DAUDIER Joseph Chavannes,19,Homme,,,,,18.30643,-73.8847033,2027-03-15,221,15-29
+91,92,Complexe Agriocole Grands Planteure d'haiti,CAGP,Pesmel,complexegrandsplanteurs@gmail.com,,,0,PHILLIPE Darlin,64,Homme,,,,,18.2611358,-73.8127154,2024-04-22,179,30+
+92,93,2R,nan,Boujouly,eclairedg223@gmail.com,,,0,Renette Lordé,38,Femme,,,,,18.2605246,-73.7701151,2027-10-02,175,30+
+93,94,Selimond Pierre Wilfrid,nan,Regnier,,,,0,Selimond Pierre Wilfride,21,Homme,,,,,18.2414694,-73.8703365,2026-12-19,217,15-29
+94,95,Jardin meridional,nan,Lagodré,jardinmeridional07@gmail.com,,,0,Chery Junior Getrau,37,Homme,,,,,18.1855862,-73.7874991,2026-10-14,176,30+
+95,96,EDMAX,nan,Rue gaussin,kerlovecleger141@gmail.com,,,0,Clerger Marie Kerlove,83,Femme,,,,,18.200448,-73.7541716,2026-05-29,194,30+
+96,97,Bélicia Baltazar,nan,"Charpentier, route simon",,,,0,Bélicia Baltazar,28,Femme,,,,,18.2190212,-73.752887,2025-11-23,196,15-29
+97,98,BERTOLET Poulailler,nan,"Cayes, derrière croix, en face NIRA Variété",stcyrwitchler633@gmail.com,,,0,St Cyr Wit Chler,38,Homme,,,,,18.2091628,-73.7586167,2024-04-13,191,30+
+98,99,Friend's Farm Haïti,FFH,Guilléme (kay mine Moise),dorcorsen@gmail.com,,,0,Orsen Dorcenat,35,Homme,,,,,18.2050883,-73.8055817,2024-01-14,198,30+
+99,100,G6,nan,Raymond,mackensonlaguerre7@gmail.com,,,0,Laguerre Mackenson,34,Homme,,,,,18.3490717,-73.86652,2025-08-30,168,30+
+100,101,Angelo Poule,nan,Champlois,,,,0,Dorcé Angelo,76,Homme,,,,,18.3271444,-73.859428,2025-03-25,163,30+
+101,102,JEL production,nan,Trou Levy,djocko32@gmail.com,,,0,Djovens Constant,34,Homme,,,,,18.3118968,-73.8617661,2025-10-19,164,30+
+102,103,Opulence poulailler,nan,Levy,gaetantdolcine@yahoo.fr,,,0,Dolciné nean Gaetant,67,Homme,,,,,18.3034241,-73.8601425,2025-09-28,165,30+
+103,104,Cooperative d'Appui à la Production Agricole  Sud,CAPAS,Taïvant (Laborde),capas2001@gmail.com,,,0,Jean philippe Dantley,84,Homme,,,,,18.2893462,-73.7906663,2024-04-30,182,30+
+104,105,Poulailler wilnert,nan,Baja,,,,0,Wilnert Paul,78,Homme,,,,,19.4924641,-71.7138119,2025-01-21,96,30+
+105,106,Association des Jeunes Engagés pour le Développement Socio-économique de Garde-Hiram ,AJEDSG,Garde-Hiram ,associationajedsg@yahoo.com,,,0,Cessaire Wedlet ,56,Homme,,,,,19.3847275,-72.0540187,2024-10-09,88,30+
+106,107,Agro-Production,AGPRO,Coladère,enoldjulien@gmail.com,,,0,Enold Julien,26,Homme,,,,,19.2447474,-72.0270377,2026-03-22,16,15-29
+107,108,Solidarité poulailler,nan,Moreau,,,,0,Calvaire Jean Rénal,69,Homme,,,,,18.2993802,-73.876933,2025-12-17,219,30+
+108,109,Félicité ferme d'élevage,FFE,Samana,,,,0,Baudeler Louis,66,Homme,,,,,19.1532076,-71.9959305,2025-01-27,18,30+
+109,110,Agro Jhonncy Poulailler ,AJP,Moreau ,etiennejhonncy@gmail.com ,,,0,Jhonncy Étienne ,27,Homme,,,,,19.3349376,-72.0269671,2025-10-09,42,15-29
+110,111,Kiskeya vèt,nan,Route lafleur,Pierredoudt@gmail.com,,,0,Doudy Pierre,73,Homme,,,,,19.5457877,-71.8121842,2027-08-12,126,30+
+111,112,La faune et.la.flore production,nan,Colonie 2,Agnesraphael76@gmail.com,,,0,Raphael Agnès,84,Homme,,,,,19.404111,-71.768848,2027-08-26,122,30+
+112,113,ORENE( organisation's pou refòm anviwonmantal nodès,nan,Dilaire,lecoagr@yahoo.fr,,,0,Monpremier Leclerc,61,Homme,,,,,19.5635531,-71.7852209,2025-05-16,128,30+
+113,114,Ferme Agricole de Mérande SA,FAMSA,Mérande,,,,0,Elaine Cadet,76,Femme,,,,,19.6117052,-71.7656988,2026-01-18,109,30+
+114,115,G&G agroentreprise,nan,Do Vapor,Infoggagroentreprise@gmail.com,,,0,Gérald Nelson,19,Homme,,,,,19.62388,-71.7944732,2026-08-10,107,15-29
+115,116,Poulailler chenet,nan,Gaston dilaire,,,,0,Chenet zavier,32,Homme,,,,,19.5680381,-71.7797109,2026-10-10,133,30+
+116,117,Poulailler Éric Sylvestre,PEV,Garde-Hiram,,,,0,Éric Sylvestre,82,Homme,,,,,19.3836694,-72.0540436,2024-12-23,87,30+
+117,118,Sonje Lakay Poulailler ,SLP,Garde-Hiram,gessonsenelus94@gmail.com ,,,0,Gesson Phenelus,26,Homme,,,,,19.3836694,-72.0540436,2027-09-09,87,15-29
+118,119,Zero Stress poulailler,ZSP,Bas du Bourd,,,,0,Chevalier Gary,75,Homme,,,,,19.3363682,-72.0229416,2027-03-10,39,30+
+119,120,Mouvement de Solidarité des Travailleurs de Saltadère,MOSOTRAS,Saltadère,mosotras99@gmail.com,,,0,Ivenel Cenatus,43,Homme,,,,,19.1350761,-71.7325267,2025-11-14,9,30+
+120,121,Klèb Foumi Labòd,KFLA,"Laborde, Tayivan",labodklebfoumi@gmail.com,,,0,Marie Carole Augustave,29,Femme,,,,,18.2892525,-73.7905853,2025-01-08,200,15-29
+121,122,A&F Production Animale et Végétale,A&F,Lospine,bienaimeasline2gmail.com,,,0,Lacossière Fegencito,53,Homme,,,,,19.1336881,-71.7288733,2027-02-11,7,30+
+122,123,Poulailler Adrien Arold,nan,Bas Fort,,,,0,Adrien Arold,58,Homme,,,,,19.4525362,-71.6898655,2024-10-11,101,30+
+123,124,Vinxtech production,nan,Mamoulé,,,,0,Léonce Michel,22,Homme,,,,,19.5505692,-71.7862547,2026-01-31,139,15-29
+124,125,Poulailler Vincent Monestime,nan,Bedou,,,,0,Vincent Monestime,88,Homme,,,,,19.4984162,-71.7137594,2025-04-19,141,30+
+125,126,AVI-AGRO,nan,Simond,josephsamuel0991@gmail.com,,,0,Joseph Samuel,59,Homme,,,,,18.2337869,-73.7766023,2027-03-28,177,30+
+126,127,Agrotop SNC,Agrotop SNC,Bourjoly 2,agrotopsnc@gmail.com,,,0,Avridor Assert,51,Homme,,,,,18.2444338,-73.7709488,2024-12-23,190,30+
+127,128,Ferme Avicole de Grand Latanier,FAGL,Grand Latanier,genercene@yahoo.fr,,,0,Gener Cené ,75,Homme,,,,,19.2824629,-72.0499644,2024-11-22,19,30+
+128,129,Bon Poul Palye,nan,"Formond, bourry",jeanclaudesoamil@yahoo.com,,,0,Louis Jean Claude Soamil,50,Homme,,,,,18.1789503,-73.8036771,2027-09-29,222,30+
+129,130,Sanon Marie Mariana,nan,"Codere , laborde (3ème section commune des cayes)",fenolddameçois@gmail.com,,,0,Sanon Marie Mariana,90,Femme,,,,,18.2893288,-73.8182695,2025-07-13,199,30+
+130,131,BECEP,Bureau d'étude construction et exécution des projets,"Charpentier, route FINCA",becep940@gmail.com,,,0,Vertilus Jean Durano,83,Homme,,,,,18.2182121,-73.75395,2024-05-02,192,30+
+131,132,American University of the Caraibeen,AUC,Centre-Ville (charpentier),asimilien@auc.edu.ht,,,0,Paul Touloute,63,Homme,,,,,18.2140329,-73.7550796,2024-09-16,195,30+
+132,133,Jean Renel St Donis,nan,Guichard,,,,0,Jean Renel St Donis,84,Homme,,,,,18.2940896,-73.8249662,2025-05-10,162,30+
+133,134,Roy production et distribution,nan,Miserne,r.saintpaul@yahoo.com,,,0,Renant St Paul,44,Homme,,,,,18.2786665,-73.7540216,2027-08-13,186,30+
+134,135,Milord Gerard Steeve,nan,Berault,mgerardsteeve@gmail.com,,,0,Milord Gerard Steeve,81,Homme,,,,,18.2014508,-73.8575481,2024-02-15,215,30+
+135,136,Frisnel et Jonald,FJ,"Rouk, antre gran bouchi",abelardjonald@gmail.com,,,0,Jonald Abelard,58,Homme,,,,,18.1490486,-73.8298507,2025-05-14,213,30+
+136,137,Bastia Ferme d'élevage ,BFE,Lapatie,,,,0,Othon Bastia,83,Homme,,,,,19.1441293,-71.9524846,2026-10-29,10,30+
+137,138,Sternum Entreprise,SE,Centre Marmont,gillesjeangilbert4@gmail.com,,,0,Gilles Jean Gilbert,58,Homme,,,,,19.0594998,-71.9799591,2024-01-23,31,30+
+138,139,Ferme Agricole Sapatère,FAS,Sapatère,odlinjp314@gmail.com,,,0,Odlin Jean Pierre,19,Homme,,,,,19.0916864,-71.9962016,2027-10-22,34,15-29
+139,140,Kominote Familyal Peyizan Centre ,KFP-Centre ,Baunabite,deus20lougenson@gmail.com,,,0,Deus Lougenson,37,Homme,,,,,19.1141957,-72.030103,2027-10-15,25,30+
+140,141,Odjeeez poulailler,OP,Carrefour Ledant,jul9403@gmail.com,,,0,Markenzie Brun,19,Homme,,,,,19.1347125,-72.0226259,2027-11-25,26,15-29
+141,142,Ronald JOSEPH,nan,Carrefour Chivry / Vye bouk,,,,0,Ronald JOSEPH,31,Homme,,,,,19.628835,-71.832842,2026-04-16,119,30+
+142,143,Rivelino JOSEPH,nan,Derac,Josephrivelino2@gmail.com,,,0,Rivelino JOSEPH,36,Homme,,,,,19.657877,-71.812752,2027-02-13,118,30+
+143,144,Raymond raynold poulailler,RRP,Habitation duperier,raymondraynoldcharles02@gmail.com,,,0,Charles  Raynold Raymond,79,Homme,,,,,19.6796255,-72.2800601,2025-03-28,60,30+
+144,145,Amitié poulailler,AP,Habitation duperier,frednellable@gmail.com,,,0,LABLE frednel,23,Homme,,,,,19.6751807,-72.2773731,2026-02-01,61,15-29
+145,146,La réserve poulailler,Pas d acronyme,Habitation kado,evaristeyolin94@gmail.com,,,0,EVARISTE Yolin,18,Homme,,,,,19.6672289,-72.2743322,2027-03-09,72,15-29
+146,147,Le poulet du rocher,nan,Breda 2,,,,0,JACQUES Joseph,81,Homme,,,,,19.6848443,-72.268649,2025-05-02,67,30+
+147,148,Fleurant chèvre,nan,"Rue Royam,10",Fleurantwisman@gmail.com,,,0,FLEURANT Wisman,26,Homme,,,,,19.6748751,-72.2679018,2026-07-06,65,15-29
+148,149,L' eternel est grand poulailler,nan,Habitation kaga,mompremierguerfry@gmail.com,,,0,Mompremier Suzie,67,Femme,,,,,19.6746808,-72.2702325,2027-09-11,62,30+
+149,150,Winter poulailler,nan,Haibation duperier,,,,0,ALTIDOR Weenter,84,Homme,,,,,19.6756438,-72.2726257,2027-02-06,68,30+
+150,151,Agro sully plymouth,nan,"Bois caïman,villa pestalozzi",sullypierre4@gmail.com,,,0,Pierre sully,27,Homme,,,,,19.7203573,-72.267424,2025-06-23,59,15-29
+151,152,Lana poulailler,nan,Breda 1,Loventzjoseph8@gmail.com,,,0,Loventz Joseph,49,Homme,,,,,19.6773042,-72.2677208,2027-01-15,69,30+
+152,153,Entre nous poulailler,nan,Galois,guerlincompere38@gmail.com,,,0,COMPERE Guerlin,22,Homme,,,,,19.6609179,-72.2695826,2026-10-08,70,15-29
+153,154,Le palmiste poulailler,nan,Ile - Adam,josephkenson21@gmail.com,,,0,Joseph Kenson,57,Homme,,,,,19.6513604,-72.2815016,2024-11-03,66,30+
+154,155,LEG poulailler,nan,Galois,osias3207@gmail.com,,,0,OSIAS louicius,80,Homme,,,,,19.6573423,-72.2724059,2024-11-26,71,30+
+155,156,EKILIB Pouilailler,EP,Bas l'acul du Nord,jaccilienclermont@gmail.com,,,0,Clermont Jaccilien,40,Homme,,,,,19.6814154,-72.3142105,2024-10-31,38,30+
+156,157,LAVI PAP DIW famasi veterinè,nan,Duperier,BJMW1999@gmail.com,,,0,BENJAMIN wisly,66,Homme,,,,,19.6774228,-72.2722011,2027-03-14,63,30+
+157,158,Ferme Solidarité,FS,Nazon,Gvallery22@gmail.com,,,0,Gary Bruno,82,Homme,,,,,19.617304,-71.960941,2027-04-28,150,30+
+158,159,Entre nous poulailer,nan,Nan Rat,magustinrode@gmai.com,,,0,Magustin Rodeline,90,Femme,,,,,19.7153855,-72.2677926,2025-07-02,57,30+
+159,160,Elie poulailler,nan,Ile Adam,,,,0,Sylvain Elie,56,Homme,,,,,19.6516142,-72.2840253,2025-03-04,64,30+
+160,161,Société de Formation de Production et de Distribution,SOFPRODIT,Habitation Demier,Echarles1967@yahoo.fr,,,0,Enos CHARLES,23,Homme,,,,,19.658397,-71.975729,2026-05-14,149,15-29
+161,162,Entreprise de la production agricole,EPIA,Madeline,Noelraymond234@yahoo.com ,,,0,Noel Raymond,55,Homme,,,,,19.7222112,-72.1819676,2027-06-19,84,30+
+162,163,Le Poulet Chic de Marmont,LPCM,Haibon,geranesbelizaire@gmail.com,,,0,Belizaire Geranés,74,Homme,,,,,19.055107,-71.9746848,2025-01-31,32,30+
+163,164,Altagrace poulet Local,Altagrace Poulet Local,Pandiassou,altagracelouis15@gmail.com,,,0,Louis Jeune Ilnive D´Altagrace,82,Femme,,,,,19.1326792,-72.0442156,2024-04-11,28,30+
+164,165,Partenaria pour le Développement Local,PDL,Cajou Rond,cantavejb@gmail.com,,,0,Cantave Jean Baptiste,43,Homme,,,,,19.4339962,-72.1914061,2026-07-31,91,30+
+165,166,Kay plantè,nan,Bonnay dugal/Route nle#3,kayplanteagroveterinaire@gmail.com,,,0,xavier Villard,65,Femme,,,,,19.7048298,-72.1806321,2026-04-27,81,30+
+166,167,PRODWI BON KALITE,PROBO-K,La rue / Rte Nle #5,virgilienpaul@gmail.com,,,0,PAUL Virgilien,55,Homme,,,,,19.7087437,-72.1810633,2025-02-02,86,30+
+167,168,Centre Agro-pastoral des Petites Surs de Ste Thérèse,CAPST,Carrefour Chivry,Centrepast2022@gmail.com,,,0,Alvanie Pièrre-Louis,82,Femme,,,,,19.635333,-71.823938,2026-02-07,111,30+
+168,169,Probo-K,nan,Savane Carré,Virgilienpaul@gmail.com,,,0,Virgilien Paul,49,Homme,,,,,19.62681,-71.915105,2025-05-09,145,30+
+169,170,Alexis et Pluviose agro entreprise vétérinaire,A$P agro entreprise vétérinaire,Carrefour la mort,renoalexis87@icloud.com,,,0,ALEXIS Reno,60,Homme,,,,,19.6987577,-72.1807387,2026-06-07,83,30+
+170,171,Ferme Le vieux Chardo,V.C,"Boni, lapas",info@levieuxchardo.com,,,0,Alix Denis Hibart,32,Homme,,,,,18.2705986,-74.1442448,2026-01-20,206,30+
+171,172,Centre d' Encadrement de la Production Agricole pour le developpement Haiti,CEPADH,2eme pont,garconberny11@gmail.com,,,0,Garçon Berny,81,Homme,,,,,19.6811035,-72.3118869,2026-06-08,36,30+
+172,173,Entreprise Nationale de Services et de Production Agricole,ENASPA,Malfety,Enaspa2000@gmail.com,,,0,Aquino Volcy,71,Homme,,,,,19.635875,-71.951662,2024-05-22,112,30+
+173,174,Complexe C& L,R&L,Morne rouge,paulrodnay2016@gmail.com,,,0,Paul Rodnay,26,Homme,,,,,19.7152269,-72.276966,2027-10-23,75,15-29
+174,175,AGRIFAZ,nan,Roucou,wisneltanis108@gmail,,,0,Tanis wisnel,73,Homme,,,,,19.6375177,-72.0719628,2024-06-08,45,30+
+175,176,New Roots Haïti,NRH,Chiron,Nick@NewRootsHaïti.org,,,0,Williams Nicolas Stolberg,66,Homme,,,,,19.6402154,-72.2501974,2024-06-09,74,30+
+176,177,Alfredo entreprise agro veterinaire,ALAVEGE,Rte nationale # 6,fanelalfred854@gmail.com,,,0,Fanel Alfred,73,Homme,,,,,19.6579221,-72.1400751,2026-12-25,51,30+
+177,178,Rasanbleman Fanm Vanyan Limonad,RAFAVAL,"#002, Rue Bellevue palais -Roi",rrafaval2022@gmail.com,,,0,Ernise Pétigny,22,Femme,,,,,19.6668506,-72.1276268,2027-10-15,52,15-29
+178,179,Asosyasyon Pwodiktè Lèt limonad,APWOLIM,Roucou,milienisrael955@gmail.com,,,0,ISRAEL milien,63,Homme,,,,,19.6646426,-72.0906456,2027-06-08,43,30+
+179,180,Agrifeed,nan,Roucou,louisyonel34@gmail.com,,,0,YONEL LOUIS,32,Homme,,,,,19.6646426,-72.0906456,2027-07-28,43,30+
+180,181,Renaissance Ferme,nan,"Wo kan, champoi, camp-perrin",similien2009@yahoo.fr,,,0,Similien Flaubert,39,Homme,,,,,18.3280636,-73.8553278,2024-12-27,170,30+
+181,182,Seeds of quality,nan,Centre ville,seedsofq.volcyrespo@gmail.com,,,0,Volcy Marc Pierre,82,Homme,,,,,18.2083121,-73.7568338,2025-03-09,188,30+
+182,183,GK Gntreprise Agricole,GK Entreprise Agricole,Mayaya,kingdygarc@yahoo.com,,,0,Garçon Kingdy,82,Homme,,,,,19.3467273,-72.020093,2024-10-15,41,30+
+183,184,Poulailler Moderne,PM,Saltadère,senatusmichelet53@gmail.com,,,0,Senatus Michelet,70,Homme,,,,,19.1306551,-71.7365998,2026-04-01,6,30+
+184,185,Institution Fitz Gérard,IFG,Lospinique,Jb166455@gmail.com,,,0,Jordany Bertin,68,Homme,,,,,19.3387374,-72.1069937,2025-05-04,40,30+
+185,186,Laiterie de Poste-Droit,nan,Poste-Droit,soniajoseph270@gmail.com,,,0,Sonia Joseph,87,Femme,,,,,18.2872824,-73.8698196,2024-05-29,220,30+
+186,187,Equipe technique de construction,ETEC,Centre laborde,piverlylouis@gmail.com,,,0,Peverly Louis,74,Homme,,,,,18.281504,-73.8047515,2025-07-02,184,30+
+187,188,Wid Agricole,nan,Pont salomon,willfrancois88@gmail.com,,,0,François Willio,49,Homme,,,,,18.3192967,-73.806625,2026-11-28,189,30+
+188,189,Société d'Expansion de la Production agricole et commercialisation de Torbeck,SEPACT,Mayard,sepacthaiti@yahoo.com,,,0,Cadet Jean Samuel,53,Homme,,,,,18.2255317,-73.806282,2024-05-15,223,30+
+189,190,Lido poulailler,nan,Fosseur capois,,,,0,Paul jean robens,45,Homme,,,,,19.6839535,-72.1155718,2026-04-29,53,30+
+190,191,Agro Yvon Service,nan,Boudet,agroyvonservices@gmail.com,,,0,Alcegaire Yvon,38,Homme,,,,,18.2094437,-73.7608821,2025-09-16,174,30+
+191,192,COSMOS,COSMOS,Seramont,jeansignylouis@gmail.com,,,0,Gaël Cherestil,60,Homme,,,,,19.2081925,-71.9995721,2025-12-24,14,30+
+192,193,Beraca dépôts  articles divers,nan,Bonney dugal,wilnoolizard@gmail.com,,,0,Olizard wilno,55,Homme,,,,,19.733243,-72.185519,2027-09-16,82,30+
+193,194,Aviculture maximum,AVIMAX,Capette,levy47@gmail.com,,,0,RICHEMOND E. LEVY,73,Homme,,,,,19.6619885,-72.0251303,2025-01-09,103,30+
+194,195,La petite Ferme Agricole,PFA,"3ème section, trichet, St Jean du Sud",rogerjeanernsot@gmail.com,,,0,Roger Jean Ernsot,28,Homme,,,,,18.0536432,-73.7924223,2027-06-08,212,15-29
+195,196,Cooperation dea association pour la production agricole et du developpement,CAPAD,Mercy,emilcyjed2@gmail.com,,,0,Emilcy Jean Edelan,47,Homme,,,,,18.2869981,-73.7700882,2026-10-15,185,30+
+196,197,Mezi jezi poulailler,nan,Granpré,,,,0,IMMACULA Thomas,64,Femme,,,,,19.6227601,-72.1870392,2025-12-25,76,30+
+197,198,S&L entreprise agricole,nan,Granpré,josephsadrac888@gmail.com,,,0,Sadrac Joseph,71,Homme,,,,,19.6225313,-72.1870199,2025-12-06,79,30+
+198,199,Les caprins d' haïti,nan,Mazère,vilmerpaul@gmail.com,,,0,VILMER PAUL,19,Homme,,,,,19.6906398,-72.18346,2025-10-11,77,15-29
+199,200,Amigo poissonerie et chacuterie,nan,Carrefour jésus,blancbeljou@yahoo.com,,,0,Jean Augustin,41,Homme,,,,,19.6518114,-71.9964571,2027-11-20,102,30+
+200,201,Ferme Vision et Action,nan,Localité Maneska,Jephtecelicourt07@gmail.com,,,0,Celicourt Jephté,45,Homme,,,,,19.503315,-72.054902,2025-06-16,159,30+
+201,202,Magie Verte Entreprise Agricole,MAVEA,Boulard,magieverteentrepriseagricole@gmail.com,,,0,Nordeus Yveleine,33,Femme,,,,,18.2749236,-73.9182757,2027-12-16,226,30+
+202,203,Yahvé Shamma,YSHA,Dòl,decossardfrantz59@gmail.com,,,0,Décossard Frantz,86,Homme,,,,,18.2544161,-73.9323337,2025-07-10,172,30+
+203,204,La chèvrerie de kilou,nan,Charles pierre,manigat84@yahoo.fr,,,0,MANIGAT LUC KILLICK JUNIOR,36,Homme,,,,,19.6766128,-72.0728304,2027-05-19,46,30+
+204,205,Ferme d'élevage de Georges Louicimar,nan,Roucou,loussy71@gmail.com,,,0,Louicimar georges gedeon,42,Homme,,,,,19.6485516,-72.0717172,2025-02-19,49,30+
+205,206,Association des Cadres pour la Protection de l'Environnement,ACAPE,Codet,rdelinois@yahoo.fr,,,0,Wilner Louis,69,Homme,,,,,18.292325,-73.81711,2025-06-30,180,30+
+206,207,Ferme d' élevage de Berard,nan,Berard,,,,0,PREVIL Harold,53,Homme,,,,,19.6349536,-72.1954135,2026-12-02,80,30+
+207,208,EMF Entreprise Agricole,EMFEA,Langlwa,emilcywendelson@gmail.com,,,0,Emilcy Wendelson,67,Homme,,,,,18.273736,-73.7693892,2024-07-14,201,30+
+208,209,Organisation pour le Développement de Lahatte Arniquet Bétail,ODHA BETAIL,Centre Taverne,jeansmithmarcjoseph@gmail.com,,,0,Joseph Jean Smith Marc,72,Homme,,,,,18.1625601,-73.8894387,2024-12-14,161,30+
+209,210,Organisation des Agriculteurs et des Planteurs de Bouette,ORAPB,Kafou laval,ocvilejames@gmail.com,,,0,Buteau Jn Wilner,32,Homme,,,,,18.2604821,-73.7785097,2024-06-20,202,30+
+210,211,Ferme Familial Agricole de Pilette,FFAP,Pilette,"Cemefco@gmail.com, ffapilette@gmail.com",,,0,Elizabeth Destiné Dorsainvil,41,Femme,,,,,19.583332,-72.013813,2024-07-02,157,30+
+211,212,Mouvement des Investisseurs de Camp-perrin,MIC,Picot,enellaguerre@gmail.com,,,0,Enel Laguerre,18,Homme,,,,,18.3496308,-73.8558376,2024-07-11,169,15-29
+212,213,Amazone production agricole,nan,Lazard,amazoneproduction@gmail.com,,,0,Joseph Rony,80,Homme,,,,,19.69542,-72.1674042,2026-04-21,85,30+
+213,214,JLJ Poulailler,nan,Mathone,,,,0,Desir Ricardo,18,Homme,,,,,19.678269,-72.3054103,2027-12-11,37,15-29
+214,215,ANTRAID Production,AP,Bezen,medsagine@gmail.com,,,0,Sagine MEDE,34,Femme,,,,,18.2576288,-73.8839212,2025-10-11,225,30+
+215,216,Splendeur agrobusiness,nan,Langlaise,decimussandro1997@yahoo.com,,,0,Decimus Sandro,83,Homme,,,,,19.7161928,-72.2836387,2025-12-12,56,30+
+216,217,Lanati Farm,LF,Pont salomon,jehielappolon@gmail.com,,,0,Appolon Jehiel Kedma,34,Homme,,,,,18.1919485,-73.7771386,2025-06-16,197,30+
+217,218,Mouvman Peyizan Nò,MOPENO,Dubout,kjulien03@yahoo.com,,,0,Julien Kettly,22,Femme,,,,,19.6698598,-72.0712143,2027-10-06,44,15-29
+218,219,Societé Agricole de Production et de  l ' élevage du Nord.Sa,SAPENSA,"Route Nle # 6, wn face Campus UEH",stv_mathieu@yahoo.com,,,0,Steeve A.Mathieu,46,Homme,,,,,19.6595699,-72.069783,2027-07-26,50,30+
+219,220,AGWO PÈP LA, APL,Route Nationale #3,Agwopepla@gmail.com,,,0,Gellin Brunel,90,Homme,,,,,19.4371516,-72.1955294,2024-07-22,89,30+
+220,221,Ferme La Bellevue,nan,Roche André,Ornecifortphanor@gmail.com,,,0,PHANOR Ornécifort,70,Homme,,,,,19.4290801,-71.9118384,2027-11-20,160,30+
+221,222,Agrozoo Services,AGS,Mulet,,,,0,Widelande Gérard,38,Femme,,,,,18.1873825,-74.0062845,2024-12-13,173,30+
+222,223,Sol Agriplus,nan,Laroche au Pont,solidariteagricultureplus@gmail.com,,,0,Rosena Dieurilus,38,Femme,,,,,18.3568615,-73.8387601,2024-02-08,167,30+
 223,224,Job Joseph,Agri-Post,Chantille,"agripost.haiti@gmail.com
-jobdayiti@gmail.com",,,0,Job Joseph,0,Homme,,,,,,,,171
-224,225,Groupe de Reflexion pour le Développement Local,GREDEL,Centre dumont,conseillanttijo60@gmail.com,,,0,Conseillant Tijo,0,Homme,,,,,,,,208
-225,226,Agri Perfect,nan,Colladère-Californe,Agriperfect21@gmail.com,,,0,Luberisse Wales,0,Homme,,,,,,,,8
-226,227,Entreprise de Production Agricole et dÉlevage ,EPRAE,Trois Bois Pin,Sleekenson@gmail.com,,,0,Luckinson Saintil,0,Homme,,,,,,,,1
-227,228,Parfait Poulet de Chaire,nan,Papaye,Parfaitwilly20@gmail.com,,,0,Willy Parfait,0,Homme,,,,,,,,21
-228,229,Guy Rousleau François ,nan,Wannikètè,Françoisguyrousleau@gmail.com,,,0,Guy Rousleau François ,0,Homme,,,,,,,,20
-229,230,Backup agricultural consulting firm,BAKCUP,Laborde,bagricultural.consulting.firm@gmail.com,,,0,Aristil Junior,0,Homme,,,,,,,,181
-230,231,AGRIPROSER,nan,Lougou,agriproser@gmail.com,,,0,Lucien Jean Matus,0,Homme,,,,,,,,218
-231,232,Bazilic,nan,Pelmel,batailleronald@gmail.com,,,0,Ronald Bataille,0,Homme,,,,,,,,178
-232,233,Laiterie Saut Mathurine,nan,Saut Mathurine,zachariefanfan@gmail.com,,,0,Zacharie Fanfan,0,Homme,,,,,,,,166
-233,234,AGRITROP,nan,Centre Ville,marcarthur21@gmail.com,,,0,Celin Joseph Marchatur,0,Homme,,,,,,,,193
-234,235,Akasan Tech,nan,Taïvan 1,info@akasantech.com,,,0,Maxime Marion,0,Homme,,,,,,,,183
+jobdayiti@gmail.com",,,0,Job Joseph,24,Homme,,,,,18.2932394,-73.8541257,2027-10-02,171,15-29
+224,225,Groupe de Reflexion pour le Développement Local,GREDEL,Centre dumont,conseillanttijo60@gmail.com,,,0,Conseillant Tijo,88,Homme,,,,,18.05956,-73.8816417,2025-07-02,208,30+
+225,226,Agri Perfect,nan,Colladère-Californe,Agriperfect21@gmail.com,,,0,Luberisse Wales,31,Homme,,,,,19.2291515,-72.0472202,2026-09-20,8,30+
+226,227,Entreprise de Production Agricole et dÉlevage ,EPRAE,Trois Bois Pin,Sleekenson@gmail.com,,,0,Luckinson Saintil,77,Homme,,,,,19.2659335,-71.9231942,2026-02-17,1,30+
+227,228,Parfait Poulet de Chaire,nan,Papaye,Parfaitwilly20@gmail.com,,,0,Willy Parfait,83,Homme,,,,,19.1503665,-71.9922182,2024-01-01,21,30+
+228,229,Guy Rousleau François ,nan,Wannikètè,Françoisguyrousleau@gmail.com,,,0,Guy Rousleau François ,85,Homme,,,,,19.1487062,-71.9936243,2026-02-03,20,30+
+229,230,Backup agricultural consulting firm,BAKCUP,Laborde,bagricultural.consulting.firm@gmail.com,,,0,Aristil Junior,83,Homme,,,,,18.2754356,-73.7956911,2027-08-09,181,30+
+230,231,AGRIPROSER,nan,Lougou,agriproser@gmail.com,,,0,Lucien Jean Matus,88,Homme,,,,,18.539269,-72.336408,2027-05-23,218,30+
+231,232,Bazilic,nan,Pelmel,batailleronald@gmail.com,,,0,Ronald Bataille,42,Homme,,,,,18.2725116,-73.8180514,2024-12-18,178,30+
+232,233,Laiterie Saut Mathurine,nan,Saut Mathurine,zachariefanfan@gmail.com,,,0,Zacharie Fanfan,66,Homme,,,,,18.3632061,-73.8514772,2026-03-23,166,30+
+233,234,AGRITROP,nan,Centre Ville,marcarthur21@gmail.com,,,0,Celin Joseph Marchatur,66,Homme,,,,,18.539269,-72.336408,2027-11-01,193,30+
+234,235,Akasan Tech,nan,Taïvan 1,info@akasantech.com,,,0,Maxime Marion,44,Homme,,,,,18.2827073,-73.7895576,2024-06-15,183,30+

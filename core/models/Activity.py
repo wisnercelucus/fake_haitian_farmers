@@ -18,9 +18,12 @@ class Activity(BaseModel):
     name: str
     community_id: int
     partner_id: int
+    activity_type: str
     total_participant: Optional[int]=None
     total_male_participant: Optional[int]=None
     total_female_participant: Optional[int]=None
+    total_male_youth_participant: Optional[int]=None
+    total_female_youth_participant: Optional[int]=None
     total_youth_participant: Optional[int]=None
     description: Optional[str]=None
     date: date
